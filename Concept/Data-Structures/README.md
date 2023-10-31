@@ -1,1 +1,1 @@
-# PHP 로 작성된 Data Structes 를 정리한 문서입니다.
+# PHP 로 작성된 Data Structures 를 정리한 문서입니다.
